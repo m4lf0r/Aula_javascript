@@ -1,3 +1,9 @@
+
+
+
+
+
+/*
 function soma(n1, n2){
     return n1 + n2;
 }
@@ -16,6 +22,7 @@ var idade = prompt("Qual sua idade?");
 console.log(validaidade(idade));
 
 //alert(soma(5, 10));
+*/
 
 /*
 var dt = new Date(); //data
